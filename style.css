@@ -1,0 +1,33 @@
+nav ul li { 
+    /* border: solid black; */
+    display: inline;
+    padding: 12px;
+    margin: 10px;
+    border: px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    text-decoration: underline;
+    background-color: aqua;
+    list-style: disc;
+}
+a{
+background: rgba(212, 5, 67, 0.966);
+border: 2px;
+padding: 12px;
+color: black;
+}
+
+    
+
+
+
+body{
+font-family: sans-serif;
+background: #613c3c;
+/* position: relative; */
+/* overflow: hidden; */
+/* font-size: 100%; */
+text-align: center; 
+background-;
+}
